@@ -7,5 +7,6 @@ In this sample, the REST API is not used.  Data can be set with sliders on the m
 
 ## Building the App
 using standard gradle commands, for example
+
 ```gradle assembleDebug```
 ```gradle installDebug```
