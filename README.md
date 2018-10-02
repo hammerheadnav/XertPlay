@@ -5,7 +5,7 @@ This is currently a simple project based on the Xert-provided sample.  The Xert 
 
 In this sample, the REST API is not used.  Data can be set with sliders on the main screen and then a sample set of power data is pushed into the library (without pausing for a second).  As a result, this runs 1000 samples very quickly and shows the calculated result. 
 
-##Build 
+## Building the App
 using standard gradle commands, for example
 ```gradle assembleDebug```
 ```gradle installDebug```
