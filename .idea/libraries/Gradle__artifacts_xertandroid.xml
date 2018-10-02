@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:xertandroid">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xertandroid.aar/7e1a12e65cb25ffc6a9c9e7f70ad1d19/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xertandroid.aar/7e1a12e65cb25ffc6a9c9e7f70ad1d19/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

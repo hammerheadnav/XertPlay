@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Xert Play</string>
+    <string name="action_settings">Settings</string>
+    <string name="update_text_for_test">Does this work?</string>
+</resources>
